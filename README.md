@@ -1,13 +1,10 @@
 <!--
 ### Hi there 👋
-
 **SBBradley/SBBradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -23,9 +20,16 @@ Here are some ideas to get you started:
 </div>
 
 ### About Me:
-I am a computer science grad and growing developer working in the US defense industry.<br>
-I am working towards changing careers into the tech industry.
+I am a CompSci grad and growing developer. <br>
+I currently work in the US defense industry; however, I am pursuing a career change into the tech industry.
 
 ---
+### Interests:
+- Japanese language learning
+- Software development (frontend & backend)
+- Cybersecurity
+- Linux OS
+
+--- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBBradley&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </div>
