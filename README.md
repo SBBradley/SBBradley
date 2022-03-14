@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ### About Me:
-I am a CompSci grad and growing developer. <br>
+I am a CompSci grad and growing developer in Japan. <br>
 I currently work in the US defense industry; however, I am pursuing a career change into the tech industry.
 
 ---
