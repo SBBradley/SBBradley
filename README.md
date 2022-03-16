@@ -32,10 +32,10 @@ I currently work in the US defense industry; however, I am pursuing a career cha
 - Linux OS
   
 興味：
-日本語の勉強
-ソフトウェア開発（フロントエンド＆バックエンド）
-サイバーセキュリティ
-リナックスオペレーティングシステム(OS)
+- 日本語の勉強
+- ソフトウェア開発（フロントエンド＆バックエンド）
+- サイバーセキュリティ
+- リナックスオペレーティングシステム(OS)
 
 --- 
 
