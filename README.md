@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:<br>
 📫 連絡方法：<br>
-&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SBBradley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sbbradley)
-&nbsp; ![Email Badge](https://img.shields.io/badge/-SBBradley8@protonmail.com-grey?style=flat&logo=Email&logoColor=darkgrey)
-
+<a href="https://www.linkedin.com/in/sbbradley">![Linkedin Badge](https://img.shields.io/badge/-SBBradley-blue?style=flat&logo=Linkedin&logoColor=white)
+<a href="mailto:SBBradley8@protonmail.com">![Email Badge](https://img.shields.io/badge/-SBBradley8@protonmail.com-grey?style=flat&logo=Email&logoColor=darkgrey)</a>
+  
 ---
 
 ### About Me:　
