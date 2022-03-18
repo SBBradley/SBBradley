@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 📫 How to reach me:<br>
 📫 連絡方法：<br>
 <a href="https://www.linkedin.com/in/sbbradley">
- <img src="https://img.shields.io/badge/SBBradley-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-<a href="mailto:SBBradley8@protonmail.com">
-  <img src="https://img.shields.io/badge/SBBradley8@protonmail.com-8B89CC?style=flate&logo=protonmail&logoColor=white">
+ <img src="https://img.shields.io/badge/SBBradley-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <a href="https://github.com/SBBradley">
-  <img src="https://img.shields.io/badge/SBBradley-100000?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/SBBradley-0E1116?style=for-the-badge&logo=github&logoColor=white">
+</a><br>
+ <a href="mailto:SBBradley8@protonmail.com">
+  <img src="https://img.shields.io/badge/SBBradley8@protonmail.com-1c223d?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
   </p>
   
@@ -49,4 +49,6 @@ I currently work in the US defense industry; however, I am pursuing a career cha
 
 --- 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBBradley&langs_count=10&theme=monokai&layout=compact" alt="SBBradley :: Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBBradley&langs_count=10&theme=aura&layout=compact" alt="SBBradley :: Top   Langs" />
+</p>
