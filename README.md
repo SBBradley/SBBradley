@@ -9,10 +9,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<p align="center">
 📫 How to reach me:<br>
 📫 連絡方法：<br>
-<a href="https://www.linkedin.com/in/sbbradley">![Linkedin Badge](https://img.shields.io/badge/-SBBradley-blue?style=flat&logo=Linkedin&logoColor=white)
-<a href="mailto:SBBradley8@protonmail.com">![Email Badge](https://img.shields.io/badge/-SBBradley8@protonmail.com-grey?style=flat&logo=Email&logoColor=darkgrey)</a>
+<a href="https://www.linkedin.com/in/sbbradley">
+ <img src="https://img.shields.io/badge/SBBradley-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+<a href="mailto:SBBradley8@protonmail.com">
+  <img src="https://img.shields.io/badge/SBBradley8@protonmail.com-8B89CC?style=flate&logo=protonmail&logoColor=white">
+</a>
+<a href="https://github.com/SBBradley">
+  <img src="https://img.shields.io/badge/SBBradley-100000?style=flat&logo=github&logoColor=white">
+</a>
+  </p>
   
 ---
 
