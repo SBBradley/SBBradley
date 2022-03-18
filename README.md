@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 📫 How to reach me:<br>
-📫 連絡方法：<br>
+📫 連絡方法：<br><br>
 <a href="https://www.linkedin.com/in/sbbradley">
  <img src="https://img.shields.io/badge/SBBradley-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 I am a growing developer and Bachelor of Computer Science grad living in Japan.<br>
 I currently work in the US defense industry; however, I am pursuing a career change into the tech industry.
 
-私について：
+私について：<br><br>
 私は勉強中のデベロッパーでコンピューター工学の学士号を持っています。現在日本に住んでいます。<br>
 現在米国の防衛産業で働いていますがITの産業に転職するつもりです。
 
