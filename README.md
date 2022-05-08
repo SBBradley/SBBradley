@@ -36,16 +36,16 @@ I currently work in the US defense industry; however, I am pursuing a career cha
 ---
   
 ### Interests: 
-- Japanese language learning
 - Software development (frontend & backend)
-- Cybersecurity
+- Cybersecurity / IT Support
 - Linux OS
+- Japanese language learning
   
 興味：
-- 日本語の勉強
 - ソフトウェア開発（フロントエンド＆バックエンド）
-- サイバーセキュリティ
+- サイバーセキュリティ / IT サポート
 - リナックスオペレーティングシステム(OS)
+- 日本語の勉強
 
 --- 
 
